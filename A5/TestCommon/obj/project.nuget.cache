@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDQ4YHVvuBLa+MKjkzzSLKCVmz2wK2qrbU1jZ954Vf7zKrZ7q1uvaojzb7Ma0YNjU0HknnhF4qwyjI4twl4IIA==",
+  "success": true,
+  "projectFilePath": "E:\\DS\\Assignments\\A5\\TestCommon\\TestCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}
